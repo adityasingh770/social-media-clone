@@ -13,7 +13,8 @@ To run this application, you will need:
 - Python 3.11 installed on your machine  
 - Django 4.1.7 installed on your machine  
 - markdown library 
-- django-braces library 
+- django-braces library  
+- django-bootstrap4 library
 
 ##Getting started
 - Clone this repository onto your machine using git clone https://github.com/jobless-lm10/social-media-clone.git
